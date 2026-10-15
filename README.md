@@ -3,7 +3,7 @@
 Predict, for every driver in every race, whether they finish on the podium (top 3), using only
 information available **after qualifying and before the race starts**.
 
-- **Notebook:** `acl-project (1).ipynb` — audit, cleaning, EDA, data-engineering questions Q1–Q3,
+- **Notebook:** `f1_podium_prediction.ipynb` — audit, cleaning, EDA, data-engineering questions Q1–Q3,
   leakage-safe feature engineering, time-based split, preprocessing experiments, models,
   feature-group ablation, explainability (permutation importance, SHAP, LIME) and an inference function.
 - **Kaggle notebook:** _link to be added_
