@@ -1,0 +1,10 @@
+# local Python environment
+.venv/
+# raw Kaggle data (download it from Kaggle, see README)
+dataset f1/
+data/
+# local copies / editor files
+backup/
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
