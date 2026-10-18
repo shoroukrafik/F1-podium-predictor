@@ -6,11 +6,12 @@ information available **after qualifying and before the race starts**.
 - **Notebook:** `f1_podium_prediction.ipynb` — audit, cleaning, EDA, data-engineering questions Q1–Q3,
   leakage-safe feature engineering, time-based split, preprocessing experiments, models,
   feature-group ablation, explainability (permutation importance, SHAP, LIME) and an inference function.
+- **Analytical report source:** `analytical_report.md` — export this file to PDF for the milestone submission.
 - **Kaggle notebook:** _link to be added_
 - **Figures:** `figures/` (all plots used in the report)
 
 ## Team
-_to be added_
+
 
 ## Data
 [Formula 1 World Championship (1950–2024)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
@@ -20,9 +21,11 @@ named `data/` (or `dataset f1/`) next to the notebook; on Kaggle, add the datase
 ## Run locally
 ```bash
 python -m venv .venv
-.venv/bin/pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 Then open the notebook and choose Run All.
+
+If you need the report PDF, open `analytical_report.md` in an editor that can export or print to PDF.
 
 ## Results (test seasons 2022–2024)
 | Model | PR-AUC | ROC-AUC | F1 |

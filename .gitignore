@@ -3,6 +3,7 @@
 # raw Kaggle data (download it from Kaggle, see README)
 dataset f1/
 data/
+F1 dataset/
 # local copies / editor files
 backup/
 .ipynb_checkpoints/

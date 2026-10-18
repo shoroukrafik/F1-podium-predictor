@@ -6,11 +6,11 @@ logistic regression,train,0.916,0.612,0.615,0.516,0.762,0.247
 logistic regression,validation,0.933,0.729,0.706,0.652,0.769,0.247
 logistic regression,test,0.938,0.722,0.681,0.569,0.848,0.247
 random forest,train,0.931,0.66,0.632,0.526,0.791,0.258
-random forest,validation,0.933,0.725,0.71,0.648,0.786,0.258
+random forest,validation,0.933,0.725,0.715,0.65,0.795,0.258
 random forest,test,0.941,0.72,0.677,0.564,0.848,0.258
-gradient boosting,train,0.923,0.633,0.624,0.52,0.781,0.245
-gradient boosting,validation,0.931,0.738,0.705,0.645,0.778,0.245
-gradient boosting,test,0.939,0.705,0.677,0.568,0.838,0.245
-shallow neural network,train,0.926,0.641,0.628,0.529,0.772,0.288
-shallow neural network,validation,0.93,0.744,0.708,0.65,0.778,0.288
-shallow neural network,test,0.937,0.725,0.686,0.593,0.814,0.288
+gradient boosting,train,0.923,0.633,0.624,0.518,0.784,0.242
+gradient boosting,validation,0.931,0.738,0.702,0.634,0.786,0.242
+gradient boosting,test,0.939,0.705,0.677,0.568,0.838,0.242
+shallow neural network,train,0.924,0.638,0.568,0.66,0.499,0.474
+shallow neural network,validation,0.929,0.748,0.717,0.743,0.692,0.474
+shallow neural network,test,0.937,0.72,0.639,0.685,0.598,0.474
